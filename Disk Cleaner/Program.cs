@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Diagnostics;
 
-Console.WriteLine("A DiskPart Tool - By Casper");
+Console.WriteLine("A DiskPart Tool - By win-forms");
 
 Process p = new Process();                                    // new instance of Process class
 p.StartInfo.UseShellExecute = false;                          // do not start a new shell
